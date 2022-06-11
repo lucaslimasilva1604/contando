@@ -1,0 +1,8 @@
+C:\curso\contando\contando\bin\Debug\contando.exe.config
+C:\curso\contando\contando\bin\Debug\contando.exe
+C:\curso\contando\contando\bin\Debug\contando.pdb
+C:\curso\contando\contando\obj\Debug\contando.csproj.AssemblyReference.cache
+C:\curso\contando\contando\obj\Debug\contando.csproj.SuggestedBindingRedirects.cache
+C:\curso\contando\contando\obj\Debug\contando.csproj.CoreCompileInputs.cache
+C:\curso\contando\contando\obj\Debug\contando.exe
+C:\curso\contando\contando\obj\Debug\contando.pdb
